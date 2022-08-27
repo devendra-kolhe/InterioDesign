@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769275704780",
+    "firebase_url": "https://interiodesign-d7e41-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "interiodesign-d7e41",
+    "storage_bucket": "interiodesign-d7e41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769275704780:android:e8604ce58958269b7b9969",
+        "android_client_info": {
+          "package_name": "com.example.interiodesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769275704780-da5heo2f9n3b9g58ivppfn3575brs2cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interiodesign",
+            "certificate_hash": "316dbf6ba22cac82317b71f18f190442c98e7d8a"
+          }
+        },
+        {
+          "client_id": "769275704780-44khdi7jvkat5r4ebp4t9sej1354dve7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIkyx9F0axA-8MWwAeJvRYywUAZZ7tIWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769275704780-44khdi7jvkat5r4ebp4t9sej1354dve7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/drawable-v24/outline_drag_handle_24.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/drawable/outline_favorite_border_24.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/activity_home.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/activity_login_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/activity_show_ar.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/bottom_sheet.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/cart_row.xml" value="0.264" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/collection_row.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/fragment_collection.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/fragment_favorites.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/fragment_home.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/fragment_images.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/fragment_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/fragment_no_permission.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/fragment_product.xml" value="0.25" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/fragment_register.xml" value="0.136" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/fragment_user.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/instruction_popup.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/list_row.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/main_onboarding.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/media_row.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/shimmer_collection_row.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/slider_layout.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Sanket/Downloads/InterioDesign (8)/InterioDesign/app/src/main/res/layout/view_renderable.xml" value="0.2296195652173913" />
+        <entry key="..\:/download_after_10march/InterioDesign (8)/InterioDesign (8)/InterioDesign/app/src/main/res/drawable/bottom_sheet_shape.xml" value="0.10885416666666667" />
+        <entry key="..\:/download_after_10march/InterioDesign (8)/InterioDesign (8)/InterioDesign/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/download_after_10march/InterioDesign (8)/InterioDesign (8)/InterioDesign/app/src/main/res/layout/activity_show3_d.xml" value="0.22" />
+        <entry key="..\:/download_after_10march/InterioDesign (8)/InterioDesign (8)/InterioDesign/app/src/main/res/layout/activity_show_ar.xml" value="0.22" />
+        <entry key="..\:/download_after_10march/InterioDesign (8)/InterioDesign (8)/InterioDesign/app/src/main/res/layout/bottom_sheet.xml" value="0.20416666666666666" />
+        <entry key="..\:/download_after_10march/InterioDesign (8)/InterioDesign (8)/InterioDesign/app/src/main/res/layout/cart_row.xml" value="0.18" />
+        <entry key="..\:/download_after_10march/InterioDesign (8)/InterioDesign (8)/InterioDesign/app/src/main/res/layout/collection_row.xml" value="0.1" />
+        <entry key="..\:/download_after_10march/InterioDesign (8)/InterioDesign (8)/InterioDesign/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/download_after_10march/InterioDesign (8)/InterioDesign (8)/InterioDesign/app/src/main/res/layout/fragment_product.xml" value="0.1" />
+        <entry key="..\:/download_after_10march/InterioDesign (8)/InterioDesign (8)/InterioDesign/app/src/main/res/layout/main_onboarding.xml" value="0.1" />
+        <entry key="..\:/download_after_10march/InterioDesign (8)/InterioDesign (8)/InterioDesign/app/src/main/res/layout/shimmer_collection_row.xml" value="0.22" />
+        <entry key="..\:/download_after_10march/InterioDesign (8)/InterioDesign (8)/InterioDesign/app/src/main/res/layout/slider_layout.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
